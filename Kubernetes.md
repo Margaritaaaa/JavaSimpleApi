@@ -73,4 +73,4 @@
 Все 10 подов запущены и работают без сбоев.
 
 Обзор работы кластера: 
-[Обзор кластера](https://drive.google.com/drive/folders/1XOmQ3nJiF3-0zG-nsqUTcCRItCrdhd73)
+[Обзор кластера](https://drive.google.com/file/d/13z-bY7Rr_FkfOFUhyotcgyHH_fwteiin/view?usp=sharing)
