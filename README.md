@@ -19,7 +19,7 @@
 
 
 
-1. Для сборки приложения в Maven
+1. Для сборки приложения в Maven в среде для разработки IntelliJ IDEA
 
 Зайти во вкладку maven: simpleApi -> Lifecycle -> package
 
