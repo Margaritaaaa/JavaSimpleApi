@@ -55,3 +55,22 @@
 	      targetPort: 8080
 	  selector:
 	    app: my-app
+
+Увеличение числа подов до десяти:
+
+![10 po](https://github.com/Margaritaaaa/JavaSimpleApi/blob/main/10-podes.png)
+
+Балансировщик распределяет запросы на разные поды:
+
+![po1](https://github.com/Margaritaaaa/JavaSimpleApi/blob/main/po1.png)
+![po2](https://github.com/Margaritaaaa/JavaSimpleApi/blob/main/po2.png)
+
+Для удобства есть графический интерфейс dashboard:
+![dashboard](https://github.com/Margaritaaaa/JavaSimpleApi/blob/main/dashboard.png)
+
+Перейдем в my-deploment, чтобы проверить работу подов:
+![10-dashboard](https://github.com/Margaritaaaa/JavaSimpleApi/blob/main/10_dashboard.png)
+Все 10 подов запущены и работают без сбоев.
+
+Обзор работы кластера: 
+[Обзор кластера](https://drive.google.com/drive/folders/1XOmQ3nJiF3-0zG-nsqUTcCRItCrdhd73)
